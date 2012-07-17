@@ -19,7 +19,7 @@ namespace TestMVCGIT
 
         public static void RegisterRoutes(RouteCollection routes)
         {
-            //Hello
+            //goodbyeanother 
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
